@@ -4,5 +4,5 @@ bases:
   - ../../../base
 images:
   - name: public.ecr.aws/fsx-csi-driver/aws-fsx-csi-driver
-    newName: 602401143452.dkr.ecr.us-west-2.amazonaws.com/eks/aws-fsx-csi-driver
-    newTag: v1.1.0
+    newName: 761018870693.dkr.ecr.us-west-2.amazonaws.com/aws-fsx-csi-driver
+    newTag: v0.0.1000
